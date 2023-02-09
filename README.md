@@ -2,11 +2,11 @@
 # Source of paper: NLGAE: a Graph Auto-Encoder Model Based on Improved Network Structure and Loss Function 
 
 dependency:
- tensorflow: Compat. V1
- Scipy 
- pandas 
- numpy 
- xgboost 
+ tensorflow: Compat. V1  <br>
+ Scipy <br>
+ pandas <br>
+ numpy <br>
+ xgboost <br>
 
 each folder's function: <br>
  getDataX: extract each dataset X  <br>
