@@ -8,11 +8,11 @@ dependency:
  numpy 
  xgboost 
 
-each folder's function: 
- getDataX: extract each dataset X 
- Classfiy: classification performance experiments 
- getEmbeddings: input graph data, embedding 
- NLGAE: NLGAE model
- parameterTurnning: hyperparameter perturbation analysis 
- saveBestEmbedding: saving the best embedding output 
- XGBresult: Experiment with classifier, taking (XGB) as an example
+each folder's function: <br>
+ getDataX: extract each dataset X  <br>
+ Classfiy: classification performance experiments <br>
+ getEmbeddings: input graph data, embedding <br>
+ NLGAE: NLGAE model <br>
+ parameterTurnning: hyperparameter perturbation analysis <br>
+ saveBestEmbedding: saving the best embedding output <br>
+ XGBresult: Experiment with classifier, taking (XGB) as an example <br>
